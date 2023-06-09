@@ -1,1 +1,1 @@
-# deneme yanılma
+# deneme yanılmaz
